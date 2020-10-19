@@ -1,0 +1,54 @@
+.imagen{
+    background-image: url(https://cdn.pixabay.com/photo/2014/10/16/09/15/lens-490806_960_720.jpg);
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height: 100%; 
+
+}
+.text{
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    
+    
+}
+.header{
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+}
+.img1{
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/19/14/53/camera-1149041_960_720.jpg);
+    background-position: center;
+    height: 50%;
+    width: 97%;
+    margin: 1em;
+    text-align: center;
+   
+    color: white;
+    font-size: x-large;
+    
+}
+.row{
+    margin-top: 1em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+.encabezado{
+font-size: x-large;
+list-style: none;
+color: black;
+}
+.contenido{
+font-size: medium;
+}
+.seccion1{
+float: left;
+width: 50%;
+}
+.seccion2{
+float: right;
+width: 50%;
+}
